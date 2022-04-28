@@ -10,9 +10,11 @@ Datasets to use
 | https://www.fec.gov/data/ | US Voting Data | Y   | Populations & People |
 | https://github.com/woosal1337/cia/tree/main/datasets | CIA Word fact book datasets | Y   | Populations & People |
 | https://www.statista.com/ | Insights and facts across 170 industries and 150+ countries | Y   | Populations & People |
+| https://esoc.princeton.edu/data |event, public opinion, and spatial data|Y|Populations & People|
 | https://www.heavy.ai/demos/ships | shipping | Y   | Populations & People |
-| https://www.numbeo.com/cost-of-living/ | cost of living calculator and compaison tool. Useful for determining the average price around the world.|Y|Finance & Business|
+| https://www.numbeo.com/cost-of-living/ | cost of living calculator and comparison tool. Useful for determining the average price around the world.|Y|Finance & Business|
 | https://ai.reportlinker.com/pricing | AI enabled Market Intelligence Platform | N | Finance & Business|
 | https://scl2-04-gpu03.mapd.com/ | Tweet Data Map | Y   | Social Media |
+| https://securingdemocracy.gmfus.org/hamilton-dashboard | Massive Amounts of Tweet Data especially covering Russia, China, and Iran| Y | Social Media|
 | https://app.ignitionrobotics.org/dashboard | Google Project to 3d model Objects | Y   | Scans |
 | https://scholar.google.com/schhp?hl=en | Google Search Power for Academic Writing | Y | Academic|
