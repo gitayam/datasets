@@ -11,5 +11,6 @@ Datasets to use
 | https://github.com/woosal1337/cia/tree/main/datasets | CIA Word fact book datasets | Y   | Populations & People |
 | https://www.statista.com/ | Insights and facts across 170 industries and 150+ countries | Y   | Populations & People |
 | https://www.heavy.ai/demos/ships | shipping | Y   | Populations & People |
+| https://www.numbeo.com/cost-of-living/ | cost of living calculator and compaison tool. Useful for determining the average price around the world.|Y|Finance|
 | https://scl2-04-gpu03.mapd.com/ | Tweet Data Map | Y   | Social Media |
 | https://app.ignitionrobotics.org/dashboard | Google Project to 3d model Objects | Y   | Scans |
