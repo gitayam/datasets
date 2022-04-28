@@ -15,3 +15,4 @@ Datasets to use
 | https://ai.reportlinker.com/pricing | AI enabled Market Intelligence Platform | N | Finance & Business|
 | https://scl2-04-gpu03.mapd.com/ | Tweet Data Map | Y   | Social Media |
 | https://app.ignitionrobotics.org/dashboard | Google Project to 3d model Objects | Y   | Scans |
+| https://scholar.google.com/schhp?hl=en | Google Search Power for Academic Writing | Y | Academic|
