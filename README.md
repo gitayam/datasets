@@ -2,7 +2,7 @@
 Datasets to use
 
 | URL | Comments | Free (Y/N) | Category |
-| --- | --- | --- | --- |
+| :----- | --- | ---: | --- |
 | http://cross-sub.org/ | micro-level, subnational event data on armed conflict and contention around the world | Y   | Conflict |
 | https://acleddata.com/#/dashboard | real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events around the world. | Y   | Conflict |
 | https://liveuamap.com/ | factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories, among others, from a vast array of sources | Y   | Conflict |
