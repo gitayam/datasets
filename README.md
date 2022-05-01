@@ -1,5 +1,12 @@
-# datasets
-Datasets to use
+# Datasets
+Datasets to use for Research
+
+## Finding Datasets
+- [Google Data Set Search](https://datasetsearch.research.google.com/)
+- [r/datasets](https://www.reddit.com/r/datasets/)
+- [r/Dissertation](https://www.reddit.com/r/Dissertation/)
+- [r/AskAcademia](https://www.reddit.com/r/AskAcademia/)
+- [r/GradSchool](https://www.reddit.com/r/GradSchool/)
 
 | URL | Comments | Free (Y/N) | Category |
 | :----- | --- | ---: | --- |
@@ -20,3 +27,4 @@ Datasets to use
 | [Hamilton Dashboard](https://securingdemocracy.gmfus.org/hamilton-dashboard) | Massive Amounts of Tweet Data especially covering Russia, China, and Iran| Y | Social Media|
 | [IgnitionRobotics](https://app.ignitionrobotics.org/dashboard) | Google Project to 3d model Objects | Y   | Scans |
 | [Google Scholar](https://scholar.google.com/schhp?hl=en) | Google Search Power for Academic Writing | Y | Academic|
+| [Research Gate](https://www.researchgate.net/) | Massive Database of Academic Journals | Y | Academic | 
