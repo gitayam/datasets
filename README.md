@@ -27,4 +27,5 @@ Datasets to use for Research
 | [Hamilton Dashboard](https://securingdemocracy.gmfus.org/hamilton-dashboard) | Massive Amounts of Tweet Data especially covering Russia, China, and Iran| Y | Social Media|
 | [IgnitionRobotics](https://app.ignitionrobotics.org/dashboard) | Google Project to 3d model Objects | Y   | Scans |
 | [Google Scholar](https://scholar.google.com/schhp?hl=en) | Google Search Power for Academic Writing | Y | Academic|
+| [JSTOR](https://www.jstor.org/) | digital library of academic journals, books, and primary sources | Y | Academic |
 | [Research Gate](https://www.researchgate.net/) | Massive Database of Academic Journals | Y | Academic | 
