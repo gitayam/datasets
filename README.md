@@ -21,6 +21,7 @@ Datasets to use for Research
 | [Heavy.ai:ships](https://www.heavy.ai/demos/ships) | shipping | Y   | Populations & People |
 | [World City Database](https://www.google.com/search?q=inurl%3Ahttps%3A%2F%2Fsimplemaps.com%2Fdata%2F*-cities+%22COUNTRY-HERE%22&newwindow=1&client=firefox-b-1-d&sxsrf=ALiCzsaBIS8xQeZg9SWV58kErpaH3B1Ygg%3A1651200770193&ei=AlNrYoS2C5-LytMPiYONqAw&ved=0ahUKEwiEv_Caorj3AhWfhXIEHYlBA8UQ4dUDCA0&uact=5&oq=inurl%3Ahttps%3A%2F%2Fsimplemaps.com%2Fdata%2F*-cities+%22COUNTRY-HERE%22&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQylJYh5MBYJqaAWgCcAF4AIABdogBzQuSAQQ0LjEwmAEAoAEByAEIwAEB&sclient=gws-wiz)| Database of cities with information of population and general Lat Long | Y | Country Data |
 | [TradingEconomics](https://tradingeconomics.com/indicators) | Mass database of metrics and indicators by country over time | Y | Country Data |
+| [Britannica Academic](https://0-academic-eb-com.mwrlibrary.armybiznet.com/levels/collegiate/) | encyclopedia | Y | Country Data|
 | [Numbeo](https://www.numbeo.com/cost-of-living/) | cost of living calculator and comparison tool. Useful for determining the average price around the world.|Y|Finance & Business|
 | [Reportlinker](https://ai.reportlinker.com/pricing) | AI enabled Market Intelligence Platform | N | Finance & Business|
 | [OmniSci Tweet Map](https://scl2-04-gpu03.mapd.com/) | Tweet Data Map | Y   | Social Media |
